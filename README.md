@@ -1,4 +1,5 @@
-#1º Semestre - Desenvolvimento de Software Multiplataforma (DSM)#
+__1º Semestre - Desenvolvimento de Software Multiplataforma (DSM)__
+
 Bem-vindo ao repositório do meu primeiro semestre no curso de Desenvolvimento de Software Multiplataforma (DSM)! Aqui você encontrará os projetos, exercícios e atividades que desenvolvi durante esse período de aprendizado.
 
 📂 Sobre o Repositório
